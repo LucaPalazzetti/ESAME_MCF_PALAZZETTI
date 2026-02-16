@@ -7,8 +7,6 @@ X0_SILICIO = 9.36
 DENSITA_SILICIO = 2.33
 SPESSORE_CM = 0.04
 SPESSORE_GCM2 = SPESSORE_CM * DENSITA_SILICIO
-
-
 PIXEL_CM = 0.01
 
 
@@ -195,3 +193,4 @@ plt.title("Risoluzione angolare ricostruita")
 plt.grid(True)
 
 plt.show()
+
